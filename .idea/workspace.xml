@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584437294927</updated>
-      <workItem from="1584437297459" duration="1158000" />
+      <workItem from="1584437297459" duration="1563000" />
     </task>
     <servers />
   </component>
@@ -55,6 +55,10 @@
       <screen x="0" y="23" width="1280" height="704" />
     </state>
     <state x="104" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.704@0.23.1280.704" timestamp="1584438116202" />
+    <state x="377" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584445194286">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state x="377" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.704@0.23.1280.704" timestamp="1584445194286" />
     <state x="423" y="299" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584438283925">
       <screen x="0" y="23" width="1280" height="704" />
     </state>
